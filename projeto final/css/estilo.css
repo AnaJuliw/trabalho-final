@@ -1,0 +1,59 @@
+body {
+    font-size: 18px;
+    box-sizing: border-box;
+    background-color: rgb(209, 150, 163);
+    background: url(img/banner.jpg)
+    rgb(209, 150, 163)
+}
+
+/* Classes em CSS */
+.container {
+    margin: auto;
+    width: 80%;
+    height: 800px;
+    background-color: rgb(209, 150, 163);
+    
+}
+
+
+.banner > img {
+    width: 100%;
+
+  
+    
+    
+}
+.Sobre {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 40;
+    color: black;
+    background-color: rgb(209, 150, 163);
+
+}
+
+.botao {
+     padding: 25px 3px;
+     width: 8rem;
+     
+}
+
+
+.main {
+    width: 80%;
+    margin: auto;
+    background-color: #dddddd;
+    height: 100vh;
+    padding: 35px;
+}
+
+.form {
+    width: 50%;
+    padding: 35px;
+    border: solid 1px #999999;
+}
+
+.formulario {
+    display: none;
+}
+
